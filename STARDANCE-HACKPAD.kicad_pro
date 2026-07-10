@@ -648,17 +648,13 @@
         "uuid": "36054270-5bee-4463-b834-c8c4cebfb499"
       }
     ],
-    "used_designators": "U1-2,SW1-3,J1",
+    "used_designators": "U1-2,SW1-5,J1-2,D1-3,#PWR1-12",
     "variants": []
   },
   "sheets": [
     [
       "36054270-5bee-4463-b834-c8c4cebfb499",
       "Root"
-    ],
-    [
-      "a3c62feb-90dd-4532-a6f6-68a981435432",
-      "Untitled Sheet"
     ]
   ],
   "text_variables": {},
