@@ -3,7 +3,7 @@ As of these dates, I did not have the journal up and running, and I was still le
 
 
 
-
+ 
 7/10/2026
 
 This is my first journal entry. Whilst I worked on the project prior to this date, today I completed a majority of my work to date, committing 1.5 hours to soley working on the schematic and PCB, and another hour or so learning through documentation. I also spent a decent amount of time working on developing a good workflow for the project, including this journal, developing a repo, and learning classic aspects of Hack Club like screen captures. This is all very new to me, and I apologize for all the formatting errors I have been making through this process! I really want to see this project get funded. 
