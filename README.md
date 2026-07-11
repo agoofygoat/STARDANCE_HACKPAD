@@ -1,1 +1,1 @@
-#This is my Hackpad project for Hack Club Stardance. It is a Tamagotchi inspired device which will plug into a PC using a Xiao Seeduino, and will have keybinds to simplify commits, as well as tracking commits by fetching data from github with a browser app which will connect to the device.
+#This is my Hackpad project!

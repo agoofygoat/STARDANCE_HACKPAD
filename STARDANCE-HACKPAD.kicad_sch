@@ -2357,7 +2357,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate"
 			(at 184.15 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -2517,7 +2517,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812MINI-E - 3.2x2.8x1.78mm"
+		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 115.57 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -2685,7 +2685,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812MINI-E - 3.2x2.8x1.78mm"
+		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 160.02 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -2775,7 +2775,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812MINI-E - 3.2x2.8x1.78mm"
+		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 212.09 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -2863,7 +2863,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate"
 			(at 146.05 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -2945,7 +2945,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
 			(at 143.51 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -3267,7 +3267,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x07_P2.54mm_Vertical"
 			(at 161.29 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -3539,7 +3539,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate"
 			(at 165.1 109.22 0)
 			(hide yes)
 			(show_name no)
