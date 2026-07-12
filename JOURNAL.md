@@ -10,6 +10,12 @@ This is my first journal entry. Whilst I worked on the project prior to this dat
 
 Today, I finalized the schematic and learned how to map footprints in KiCad, which was actually kinda fun. Next the hard part came, sorting out the connections on the PCB file. While this was not finished today, I learned how to add connections and I hope to get to copper layering tommorow. 
 
-That's all, I'm insanely tired, see ya tommorow.
+That's all, I'm insanely tired, see ya later.
+
+
+7/12/2026
+Yes, yes, I skipped a day. I'm a tad bit ashamed but whatever, yesterday I fiddled around in KiCad for like 10 minutes before crashing out and not coming back. But today?? Big work was done!! Today I continued following the ratsnests to complete the connections on my PCB. I'm not entirely sure what the next step entails, but I'll figure that out tommorow. Today I worked on the ratsnest connections for a solid 45 minutes and took screen captures to validate my work. It was actually interesting completing the ratsnest because it was sort of a puzzle. 
+
+Also, you will probably see in my commits, but the .history file in KiCad keeps messing up my project so I have to keep clearing out the .sch files cached in there, jus saying this to clear things up. I love Onshape and that sort of CAD, so I'm really excited to be headed towards that phase of the project. I'm glad my skills are growing daily.
 
 
