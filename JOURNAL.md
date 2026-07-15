@@ -19,3 +19,11 @@ Yes, yes, I skipped a day. I'm a tad bit ashamed but whatever, yesterday I fiddl
 Also, you will probably see in my commits, but the .history file in KiCad keeps messing up my project so I have to keep clearing out the .sch files cached in there, jus saying this to clear things up. I love Onshape and that sort of CAD, so I'm really excited to be headed towards that phase of the project. I'm glad my skills are growing daily.
 
 
+7/13/2026
+As I am writing this, it is 7/14/2026, but I did not have a chance to journal yesterday, nor work at all today. The break was nice, but tommorow I'll be back on Onshape :). 
+
+On this workday, everything went generally easy. While I only took a short screen capture of me struggling yesterday, I tracked the rest of my time with the Wakatime for KiCad extension as seen in the Hackatime project titled STARDANCE-PROJECT. I finished the ratsnest the day prior, so all I had to do was add the copper layer to finalize the PCB. I think I did this correctly as only 2 layers existed as detailed in the Slack. After this I ran diagnostics to check for errors and warnings. First, I recieved 12 errors about tolerances, so I lowered the tolerances (hopefully this is a valid method I'm new to this), and 1 error, because I screwed up the copper layer initially. 
+
+After errors were resolved I downloaded all files needed including the .gbr and the drill pattern files for manufacturing.
+
+Glad everything today worked well, tommorow I will hafta learn how to track Onshape time, through both screen capturing, as well as a Hackatime extension. 
