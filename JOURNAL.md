@@ -27,3 +27,14 @@ On this workday, everything went generally easy. While I only took a short scree
 After errors were resolved I downloaded all files needed including the .gbr and the drill pattern files for manufacturing.
 
 Glad everything today worked well, tommorow I will hafta learn how to track Onshape time, through both screen capturing, as well as a Hackatime extension. 
+
+7/15/26
+So today I started the day with a little crashout, I read the docs to make sure I finished the PCB correctly.... Obviously I didn't!
+
+So I added a copper layer GND plate, because I was not following a Hack Club specific tutorial and I was jsut getting everything confused. 
+Lesson learned, I will stay in the Hack Pad Docs exclusively! After a quick 4 minute screen capture of my work, everything was done, and I deleted and recreated my .gbr and drill hole files for correct manufacturing!
+
+Next I began designing my case in Onshape, a CAD software I am familiar with, by following the Hack Club tutorial
+
+7/16/26
+Today was very relaxing, as I began to finalize my CAD for the case. This involved adding spaces for the screen, keys, and adding text and logos to make my design stand out. This involved transferring logos into DXF, loading them into Onshape, and then adding them to sketches on the part's surfaces. I still need to make a hole for the USB C coming out of the XIAO Board, but I will most likely do that tommorow. Today I made extrusions and sketches, as well as adding DXF and text elements. :)
